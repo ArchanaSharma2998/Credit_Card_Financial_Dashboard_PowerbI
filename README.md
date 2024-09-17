@@ -14,8 +14,3 @@ Key Insights: 💰 Total Revenue: $57M
 🧑‍💼 Businessman Contribution: $18M
 💳 Blue & Silver Cards: 93% of overall transactions
 
-Check out the full project on GitHub: GitHub Link
-
-A huge thank you to Rishabh Mishra for the invaluable guidance throughout this project!
-
-#DataAnalyst #PowerBI #CreditCardAnalysis #DataVisualization #DataModeling #MySQL #DataScience
